@@ -1,10 +1,10 @@
-# Olá, eu sou a Mariana :)👋<br>
-- 💻 Me aprofundando no Back-end Java e no Front-end HTML, CSS e Java-Script<br>
+# 👩‍💻Mariana Macedo de Farias Souza<br>
+- 💻 Me aprofundando no Back-end Java e no Front-end HTML, CSS e Java-Script | Foco em Desenvolvimento Full-Stack<br>
 - 📚 Cursando Ciência da Computação na Universidade Unipê
 
 ---
 
-# Tecnologias e Ferramentas;
+# 📖Tecnologias e Ferramentas;
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -16,6 +16,8 @@
 
 ---
 
-# Contato;
+# ✨Contato;
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-macedo-119488367/)
 - [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marianamacedodefarias@gmail.com)
+
+
