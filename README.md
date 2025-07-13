@@ -1,5 +1,5 @@
 # 👩‍💻Mariana Macedo de Farias Souza<br>
-- 💻 Me aprofundando no Back-end Java e no Front-end HTML, CSS e Java-Script | Foco em Desenvolvimento Full-Stack<br>
+- 💻 Me aprofundando no Back-end Java e no Front-end HTML, CSS e Java-Script | Foco em Desenvolvimento Back-end<br>
 - 📚 Cursando Ciência da Computação na Universidade Unipê
 
 ---
