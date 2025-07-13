@@ -16,8 +16,10 @@
 
 ---
 
-# ✨Contato;
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-macedo-119488367/)
-- [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](marianamacedodefarias@gmail.com)
+# 📬Contato;
+📧 E-mail: marianamacedodefarias@gmail.com <br>
+📍 João Pessoa – PB<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-macedo-119488367/)
+
 
 
